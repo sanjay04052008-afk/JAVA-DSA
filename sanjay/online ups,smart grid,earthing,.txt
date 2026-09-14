@@ -1,0 +1,2 @@
+online ups,smart grid,earthing,
+2)deci to binary,combi of logic gates,k map,half,full order,flip flop
